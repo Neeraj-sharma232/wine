@@ -1,0 +1,26 @@
+.neeraj{
+    background-image: url(../image/footer.jpg);
+    background-size: cover;
+}
+/* .motu .patalu{
+    justify-content: center;
+    align-items: center;
+} */
+@font-face {
+    font-family: lallu;
+    src: url(../font/lallu.ttf);
+
+}
+.lallu{
+    font-family: lallu;
+}
+.event_sec{
+    background-image: url(../image/homepage37.png);
+    background-size: cover;
+
+}
+.logo_two
+{
+    justify-content: center;
+    align-items: center;
+}
